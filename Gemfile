@@ -1,3 +1,6 @@
-source :rubygems
+# frozen_string_literal: true
 
-gem "celluloid"
+source 'https://rubygems.org'
+
+gem 'celluloid'
+gem 'rubocop'
